@@ -1,0 +1,2 @@
+# sudoku-meganews
+MegaNews challenge
